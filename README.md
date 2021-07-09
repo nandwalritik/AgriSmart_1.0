@@ -1,5 +1,16 @@
 # PR424_Team_Revengers_AgriSmart
 
+# Some Glimpses of Agrismart 2.0
+<p float="left" align="justify">
+<img src="https://user-images.githubusercontent.com/48522685/125067577-154c2d80-e0d2-11eb-9962-1ad263a32663.png" width=30%/>
+<img src="https://user-images.githubusercontent.com/48522685/125068033-9f949180-e0d2-11eb-89e3-77153a294c33.png" width=30%/>
+ <img src="https://user-images.githubusercontent.com/48522685/125068058-a7eccc80-e0d2-11eb-9457-b462bb4b6cbd.png" width=30%/>
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/48522685/125068084-afac7100-e0d2-11eb-9585-8b3d97315d9a.png" width=30%/>
+<img src="https://user-images.githubusercontent.com/48522685/125068103-b509bb80-e0d2-11eb-9e3c-1ea300272dd5.png" width=30%/>
+</p>
+
 # AgriSmart
 AgriSmart is an app which connects farmer and transporters on a common platform. Where farmers can get connected with Transporters. 
 It features quick booking, pooling feature and push notifications and much more!!!

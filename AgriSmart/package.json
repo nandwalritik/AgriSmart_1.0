@@ -18,7 +18,7 @@
     "@react-navigation/stack": "^5.5.1",
     "@ui-kitten/components": "^5.0.0",
     "@ui-kitten/eva-icons": "^5.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "flow-bin": "^0.113.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
